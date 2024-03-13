@@ -1,0 +1,51 @@
+{
+  "vanillatweaks:root": {
+    "criteria": {
+      "tick": "2024-03-13 02:56:18 +0000"
+    },
+    "done": true
+  },
+  "vanillatweaks:player_head_drops": {
+    "criteria": {
+      "tick": "2024-03-13 02:56:18 +0000"
+    },
+    "done": true
+  },
+  "armor_statues:enable": {
+    "criteria": {
+      "tick": "2024-03-13 02:56:18 +0000"
+    },
+    "done": true
+  },
+  "vanillatweaks:afk_display": {
+    "criteria": {
+      "tick": "2024-03-13 02:56:18 +0000"
+    },
+    "done": true
+  },
+  "vanillatweaks:multiplayer_sleep": {
+    "criteria": {
+      "tick": "2024-03-13 02:56:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2024-03-13 02:56:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:windswept_gravelly_hills": "2024-03-13 02:56:19 +0000"
+    },
+    "done": false
+  },
+  "vanillatweaks:armor_statues": {
+    "criteria": {
+      "tick": "2024-03-13 02:56:18 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3700
+}
